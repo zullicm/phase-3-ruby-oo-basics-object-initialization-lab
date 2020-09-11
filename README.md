@@ -15,7 +15,7 @@ breed is provided, it should default to `"Mutt"`
 
 ## Instructions
 
-Open this lab by clicking the "Fork" button and run the tests with `learn test`.
+Open this lab by clicking the "Fork" button, cloning, and running the tests with `learn test`.
 
 #### 1. `Person#initialize` with a Name
 
