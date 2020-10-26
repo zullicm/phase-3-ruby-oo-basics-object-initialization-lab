@@ -35,4 +35,4 @@ should default to "Mutt".
 
 Submit your solution with `learn submit`.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-object-initialize-lab' title='Ruby Object Initialize Lab'>Ruby Object Initialize Lab</a> on Learn.co and start learning to code for free.</p>
+
