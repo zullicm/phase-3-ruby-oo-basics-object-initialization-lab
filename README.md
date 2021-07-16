@@ -81,6 +81,11 @@ the value of `@breed` after it's initially set. In some cases this is desirable,
 but if we want to be able to change the value of an attribute later, we would
 use the `attr_accessor` macro **in addition to** `#initialize`.
 
+If you’re familiar with Object Oriented JavaScript from previous experience, you
+may be curious about what this Ruby syntax looks like when translated to
+JavaScript. If you’re not, no worries — just know that most of the OO features
+we’re discussing in Ruby are possible in JavaScript too!
+
 The `#initialize` method is similar to the constructor method in JavaScript:
 
 ```js
